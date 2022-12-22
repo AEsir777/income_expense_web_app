@@ -1,0 +1,21 @@
+hr {
+    border: none;
+    border-top-style: dotted;
+    background-color: transparent;
+    border-top-color: powderblue;
+    border-top-width: 4px;
+    width: 10%;
+}
+
+body {
+    background-color: oldlace;
+}
+
+#money {
+    border-radius: 100%;
+}
+
+#money:hover {
+    border-radius: 0%;
+}
+
