@@ -23,8 +23,27 @@ body {
     margin: 0;
 }
 
-.title {
+.top-container {
+    width: 200px;
+    height: 200px;
+    padding: 20px;
+    border: solid 10px;
     background-color: aliceblue;
+}
 
+.middle-container {
+    margin-left: 260px;
+    border: solid 20px;
+    width: 200px;
+    height: 200px;
+    background-color: azure;
+}
+
+.bottom-container {
+    margin-left: 500px;
+    border: solid 10px;
+    width: 200px;
+    height: 200px;
+    background-color: beige;
 }
 
