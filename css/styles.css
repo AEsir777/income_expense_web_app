@@ -19,3 +19,12 @@ body {
     border-radius: 0%;
 }
 
+body {
+    margin: 0;
+}
+
+.title {
+    background-color: aliceblue;
+
+}
+
