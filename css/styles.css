@@ -95,3 +95,15 @@ h3 {
     background-color: aliceblue;
 }
 
+@media (max-width: 900px) {
+    .media {
+        background-color: darkkhaki;
+    }
+}
+
+@media (min-width: 900px) {
+    .media {
+        background-color: paleturquoise;
+    }
+}
+
